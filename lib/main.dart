@@ -6,7 +6,7 @@ import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 import 'package:image_picker/image_picker.dart';
 
-const String _apiKey = 'AIzaSyC2QS63V0V6VyrqUwZMx4brfZHtJlFzmgc';
+const String _apiKey = 'ff';
 
 void main() {
   runApp(const GenerativeAISample());
